@@ -10,7 +10,7 @@
 <strong>Execution:</strong>
 * Has Python 3 or higher installed on the machine;
 * Execute the command in the terminal: python TalabatFoodOrdering.py
-* it will show an input prompt for the user url then press enter after you entered it.
+* it will show an input prompt for the user url then press enter after you enter it.
 
 
 <strong>Python modules: </strong>
