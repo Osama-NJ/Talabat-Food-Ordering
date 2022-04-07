@@ -1,6 +1,6 @@
 <h1 align="center"> Talabat-Food-Ordering </h1> 
 <p align="center">
-  <img src="C:\Users\najja\Desktop\ss.jpg" width="200" height="200" />
+  <img src="https://github.com/Osama-NJ/Talabat-Food-Ordering/blob/main/Talabat%20food%20ordering/Photo/Talabat.jpg" width="200" height="200" />
 </p>
 
 ## Requirements :
@@ -22,7 +22,7 @@
 <strong>Notes: </strong>
 * Please make sure you are inserting the full url
 * Please make sure you have installed all the modules
-* if the restaurant is closed it will show so.
+* if the restaurant is closed it will check and show so.
 
 
 
