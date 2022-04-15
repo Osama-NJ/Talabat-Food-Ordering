@@ -10,7 +10,7 @@ driver.implicitly_wait(5)   # Waits until the element is present
 def availability_check():
     """
      This function takes a user defined restaurant url as input
-        Returns:
+        Conditions:
             if it's busy , in this case it will keep checking until
             it's available
             if it's Open , in this case it will make a beep sound
